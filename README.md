@@ -1,6 +1,6 @@
  # Hey 👋
  
-## I am Diti Arora. I am an 11 year old Front End web development enthusiast from India
+## I am Diti Arora. I am an 11 year old Front End web developer from India
 
 
 
