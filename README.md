@@ -19,6 +19,8 @@ Instagram: https://www.instagram.com/theditiarora/
 
 Email: diti.aromatic@gmail.com
 
+Linkdn: https://www.linkedin.com/in/diti-arora-a31463209/
+
 
 
 
