@@ -4,7 +4,7 @@
 
 
 
-💻I am currently a React Js developer.
+💻I am currently a React Js developer and learning Nodejs
 
 🎨I am enthusiastic about UI designing and keep making new UI everyday
 
