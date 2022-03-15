@@ -1,6 +1,6 @@
  # Hey 👋
  
-## I am Diti Arora. I am an 11 year old React JS developer from India
+## I am Diti Arora. I am an 12 year old React JS developer from India
 
 
 
